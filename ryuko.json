@@ -2,17 +2,17 @@
   "author": "ryuko",
   "developermode": false,
   "language": "en",
-  "approval": false,
+  "approval": true,
   "premium": false,
-  "BOTNAME": "ryuko",
+  "BOTNAME": "asher",
   "EMAIL": "sanjivfresh@gmail.com",
-  "PREFIX": "-",
+  "PREFIX": "*",
   "OPERATOR": [
-    "",
-    "100091459940475"
+    "100092503144500",
+    ""
   ],
   "ADMINBOT": [
-    ""
+    "100092503144500"
   ],
   "disabledcmds": [],
   "disabledevents": [],
